@@ -5173,6 +5173,7 @@ select:-webkit-autofill:focus {
 .footer {
   padding-top: 80px;
   padding-bottom: 40px;
+  background-color: #000;
 }
 
 #footer-3.footer {
@@ -5349,8 +5350,8 @@ select:-webkit-autofill:focus {
 
 .footer-img img.insta-img {
   float: left;
-  width: 75px;
-  height: 75px;
+  width: 32px;
+  height: 32px;
   margin: 4px;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
