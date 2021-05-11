@@ -441,7 +441,7 @@
   #footer-1 .footer-contacts, #footer-4 .footer-contacts, #footer-4 .footer-info { padding-left: 0; }
   #footer-3 .footer-logo img { max-height: 100px; }
 
-  .footer-img img.insta-img { width: 85px; height: 85px; margin: 3px; }
+  .footer-img img.insta-img { width: 32px; height: 32px; margin: 3px; }
 
   .foo-email.mt-15 { margin-top: 0; }
   #footer-1 p.p-lg.foo-email { margin-top: 5px; margin-bottom: 5px; }
@@ -984,7 +984,7 @@
   #footer-3 .footer-socials-links { margin-top: 50px; margin-bottom: 20px; }
   .foo-socials a { width: 40px; height: 40px; font-size: 26px; margin: 0 3px; }
 
-  .footer-img img.insta-img { width: 100px; height: 100px; margin: 4px; }
+  .footer-img img.insta-img { width: 32px; height: 32px; margin: 4px; }
 
   .footer-info p, .footer-contacts p { margin-bottom: 5px; }
   .foo-email.mt-15 { margin-top: 0; }
@@ -1606,7 +1606,7 @@
   #footer-3 .footer-socials-links { margin-top: 50px; margin-bottom: 20px; }
   .foo-socials a { width: 40px; height: 40px; font-size: 28px; margin: 0 3px; }
 
-  .footer-img img.insta-img { width: 100px; height: 100px; margin: 4px; }
+  .footer-img img.insta-img { width: 32px; height: 32px; margin: 4px; }
 
   .footer-info p, .footer-contacts p { margin-bottom: 5px; }
   .foo-email.mt-15 { margin-top: 0; }
@@ -2141,7 +2141,7 @@
   #footer-3 .footer-socials-links { margin-top: 50px; margin-bottom: 20px; }
   .foo-socials a { width: 40px; height: 40px; font-size: 26px; margin: 0 3px; }
 
-  .footer-img img.insta-img { width: 100px; height: 100px; margin: 4px; }
+  .footer-img img.insta-img { width: 32px; height: 32px; margin: 4px; }
 
   .footer-info p, .footer-contacts p { margin-bottom: 5px; }
   .foo-email.mt-15 { margin-top: 0; }
@@ -3256,7 +3256,7 @@
   #footer-3 .footer-socials-links { margin-top: 50px; margin-bottom: 20px; }
   .foo-socials a { width: 40px; height: 40px; font-size: 24px; margin: 0 3px; }
 
-  .footer-img img.insta-img { width: 88px; height: 88px; margin: 4px; }
+  .footer-img img.insta-img { width: 32px; height: 32px; margin: 4px; }
 
   .footer-info p, .footer-contacts p { margin-bottom: 5px; }
   .foo-email.mt-15 { margin-top: 0; }
